@@ -1,0 +1,18 @@
+--Output from list with criteria[0]--
+--Output from list with criteria[1]--
+--Output from list with criteria[2]--
+--Output from list with criteria[3]--
+--Output from list with criteria[4]--
+--Output from list with criteria[5]--
+--Output from list with criteria[6]--
+--Output from list with criteria[7]--
+--Output from list with criteria[8]--
+--Output from list with criteria[9]--
+--Output from list with criteria[10]--
+--Output from list with criteria[11]--
+--Output from find all by date created[0]--
+--Output from find all by date created[1]--
+--Output from find all by number[0]--
+--Output from find all by number[1]--
+--Output from find all by title[0]--
+--Output from find all by title[1]--

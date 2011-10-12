@@ -1,0 +1,453 @@
+--Output from list with criteria[0]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_
+
+--Output from list with criteria[1]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.test_embedded_date_created>=? 
+        and this_.test_embedded_date_created<=?
+
+--Output from list with criteria[2]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.test_embedded_date_created>=?
+
+--Output from list with criteria[3]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.test_embedded_number>=? 
+        and this_.test_embedded_number<=?
+
+--Output from list with criteria[4]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.test_embedded_number>=? 
+        and this_.test_embedded_number<=?
+
+--Output from list with criteria[5]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.test_embedded_number>=? 
+        and this_.test_embedded_number<=?
+
+--Output from list with criteria[6]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.title=?
+
+--Output from list with criteria[7]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.title=?
+
+--Output from list with criteria[8]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.test_embedded_date_created=?
+
+--Output from list with criteria[9]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.test_embedded_date_created=?
+
+--Output from list with criteria[10]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.test_embedded_number=?
+
+--Output from list with criteria[11]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.test_embedded_number=?
+
+--Output from find all by date created[0]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.test_embedded_date_created=?
+
+--Output from find all by date created[1]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.test_embedded_date_created=?
+
+--Output from find all by number[0]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.test_embedded_number=?
+
+--Output from find all by number[1]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.test_embedded_number=?
+
+--Output from find all by title[0]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.title=?
+
+--Output from find all by title[1]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.title=?
+
+

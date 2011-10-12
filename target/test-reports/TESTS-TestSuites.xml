@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="12" hostname="gl01332m.gamesys.corp" id="0" name="TestSpec" package="embedded.issue" tests="18" time="0.865" timestamp="2011-10-12T09:10:28">
+      <properties />
+
+      <testcase classname="embedded.issue.TestSpec" name="list with criteria[0]" time="0.544" />
+
+      <testcase classname="embedded.issue.TestSpec" name="list with criteria[1]" time="0.047">
+          <failure message="Condition not satisfied:  list.size() == expectedSize |    |      |  | []   0      |  1             false " type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+</failure>
+
+      </testcase>
+
+      <testcase classname="embedded.issue.TestSpec" name="list with criteria[2]" time="0.016">
+          <failure message="Condition not satisfied:  list.size() == expectedSize |    |      |  | |    1      |  0 |           false [&lt;embedded.issue.Test@22241a0d dateCreated=Wed Oct 12 10:10:29 BST 2011 title=parent number=-1 testEmbedded=&lt;embedded.issue.TestEmbedded@54031f94 dateCreated=Fri Oct 14 10:10:29 BST 2011 title=embedded number=1 id=null version=null&gt; id=3 version=0&gt;] " type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[&lt;embedded.issue.Test@22241a0d dateCreated=Wed Oct 12 10:10:29 BST 2011 title=parent number=-1 testEmbedded=&lt;embedded.issue.TestEmbedded@54031f94 dateCreated=Fri Oct 14 10:10:29 BST 2011 title=embedded number=1 id=null version=null&gt; id=3 version=0&gt;]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+</failure>
+
+      </testcase>
+
+      <testcase classname="embedded.issue.TestSpec" name="list with criteria[3]" time="0.013" />
+
+      <testcase classname="embedded.issue.TestSpec" name="list with criteria[4]" time="0.013">
+          <failure message="Condition not satisfied:  list.size() == expectedSize |    |      |  | []   0      |  1             false " type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+</failure>
+
+      </testcase>
+
+      <testcase classname="embedded.issue.TestSpec" name="list with criteria[5]" time="0.015">
+          <failure message="Condition not satisfied:  list.size() == expectedSize |    |      |  | |    1      |  0 |           false [&lt;embedded.issue.Test@e8baeed dateCreated=Wed Oct 12 10:10:29 BST 2011 title=parent number=-1 testEmbedded=&lt;embedded.issue.TestEmbedded@211120f9 dateCreated=Fri Oct 14 10:10:29 BST 2011 title=embedded number=1 id=null version=null&gt; id=6 version=0&gt;] " type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[&lt;embedded.issue.Test@e8baeed dateCreated=Wed Oct 12 10:10:29 BST 2011 title=parent number=-1 testEmbedded=&lt;embedded.issue.TestEmbedded@211120f9 dateCreated=Fri Oct 14 10:10:29 BST 2011 title=embedded number=1 id=null version=null&gt; id=6 version=0&gt;]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+</failure>
+
+      </testcase>
+
+      <testcase classname="embedded.issue.TestSpec" name="list with criteria[6]" time="0.011" />
+
+      <testcase classname="embedded.issue.TestSpec" name="list with criteria[7]" time="0.014" />
+
+      <testcase classname="embedded.issue.TestSpec" name="list with criteria[8]" time="0.02">
+          <failure message="Condition not satisfied:  list.size() == expectedSize |    |      |  | []   0      |  1             false " type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+</failure>
+
+      </testcase>
+
+      <testcase classname="embedded.issue.TestSpec" name="list with criteria[9]" time="0.013">
+          <failure message="Condition not satisfied:  list.size() == expectedSize |    |      |  | |    1      |  0 |           false [&lt;embedded.issue.Test@6f5fc793 dateCreated=Wed Oct 12 10:10:29 BST 2011 title=parent number=-1 testEmbedded=&lt;embedded.issue.TestEmbedded@176150c dateCreated=Fri Oct 14 10:10:29 BST 2011 title=embedded number=1 id=null version=null&gt; id=10 version=0&gt;] " type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[&lt;embedded.issue.Test@6f5fc793 dateCreated=Wed Oct 12 10:10:29 BST 2011 title=parent number=-1 testEmbedded=&lt;embedded.issue.TestEmbedded@176150c dateCreated=Fri Oct 14 10:10:29 BST 2011 title=embedded number=1 id=null version=null&gt; id=10 version=0&gt;]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+</failure>
+
+      </testcase>
+
+      <testcase classname="embedded.issue.TestSpec" name="list with criteria[10]" time="0.013">
+          <failure message="Condition not satisfied:  list.size() == expectedSize |    |      |  | []   0      |  1             false " type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+</failure>
+
+      </testcase>
+
+      <testcase classname="embedded.issue.TestSpec" name="list with criteria[11]" time="0.014">
+          <failure message="Condition not satisfied:  list.size() == expectedSize |    |      |  | |    1      |  0 |           false [&lt;embedded.issue.Test@1641529e dateCreated=Wed Oct 12 10:10:29 BST 2011 title=parent number=-1 testEmbedded=&lt;embedded.issue.TestEmbedded@2e5231c4 dateCreated=Fri Oct 14 10:10:29 BST 2011 title=embedded number=1 id=null version=null&gt; id=12 version=0&gt;] " type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[&lt;embedded.issue.Test@1641529e dateCreated=Wed Oct 12 10:10:29 BST 2011 title=parent number=-1 testEmbedded=&lt;embedded.issue.TestEmbedded@2e5231c4 dateCreated=Fri Oct 14 10:10:29 BST 2011 title=embedded number=1 id=null version=null&gt; id=12 version=0&gt;]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+</failure>
+
+      </testcase>
+
+      <testcase classname="embedded.issue.TestSpec" name="find all by date created[0]" time="0.029">
+          <failure message="Condition not satisfied:  list.size() == expectedSize |    |      |  | []   0      |  1             false " type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:57)
+</failure>
+
+      </testcase>
+
+      <testcase classname="embedded.issue.TestSpec" name="find all by date created[1]" time="0.017">
+          <failure message="Condition not satisfied:  list.size() == expectedSize |    |      |  | |    1      |  0 |           false [&lt;embedded.issue.Test@1ba5cfae dateCreated=Wed Oct 12 10:10:29 BST 2011 title=parent number=-1 testEmbedded=&lt;embedded.issue.TestEmbedded@56c747e8 dateCreated=Fri Oct 14 10:10:29 BST 2011 title=embedded number=1 id=null version=null&gt; id=14 version=0&gt;] " type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[&lt;embedded.issue.Test@1ba5cfae dateCreated=Wed Oct 12 10:10:29 BST 2011 title=parent number=-1 testEmbedded=&lt;embedded.issue.TestEmbedded@56c747e8 dateCreated=Fri Oct 14 10:10:29 BST 2011 title=embedded number=1 id=null version=null&gt; id=14 version=0&gt;]
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:57)
+</failure>
+
+      </testcase>
+
+      <testcase classname="embedded.issue.TestSpec" name="find all by number[0]" time="0.016">
+          <failure message="Condition not satisfied:  list.size() == expectedSize |    |      |  | []   0      |  1             false " type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.find all by number(TestSpec.groovy:76)
+</failure>
+
+      </testcase>
+
+      <testcase classname="embedded.issue.TestSpec" name="find all by number[1]" time="0.022">
+          <failure message="Condition not satisfied:  list.size() == expectedSize |    |      |  | |    1      |  0 |           false [&lt;embedded.issue.Test@1d902242 dateCreated=Wed Oct 12 10:10:29 BST 2011 title=parent number=-1 testEmbedded=&lt;embedded.issue.TestEmbedded@231aaee1 dateCreated=Fri Oct 14 10:10:29 BST 2011 title=embedded number=1 id=null version=null&gt; id=16 version=0&gt;] " type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[&lt;embedded.issue.Test@1d902242 dateCreated=Wed Oct 12 10:10:29 BST 2011 title=parent number=-1 testEmbedded=&lt;embedded.issue.TestEmbedded@231aaee1 dateCreated=Fri Oct 14 10:10:29 BST 2011 title=embedded number=1 id=null version=null&gt; id=16 version=0&gt;]
+
+	at embedded.issue.TestSpec.find all by number(TestSpec.groovy:76)
+</failure>
+
+      </testcase>
+
+      <testcase classname="embedded.issue.TestSpec" name="find all by title[0]" time="0.013" />
+
+      <testcase classname="embedded.issue.TestSpec" name="find all by title[1]" time="0.011" />
+
+      <system-out><![CDATA[--Output from list with criteria[0]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_
+
+--Output from list with criteria[1]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.test_embedded_date_created>=? 
+        and this_.test_embedded_date_created<=?
+
+--Output from list with criteria[2]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.test_embedded_date_created>=?
+
+--Output from list with criteria[3]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.test_embedded_number>=? 
+        and this_.test_embedded_number<=?
+
+--Output from list with criteria[4]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.test_embedded_number>=? 
+        and this_.test_embedded_number<=?
+
+--Output from list with criteria[5]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.test_embedded_number>=? 
+        and this_.test_embedded_number<=?
+
+--Output from list with criteria[6]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.title=?
+
+--Output from list with criteria[7]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.title=?
+
+--Output from list with criteria[8]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.test_embedded_date_created=?
+
+--Output from list with criteria[9]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.test_embedded_date_created=?
+
+--Output from list with criteria[10]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.test_embedded_number=?
+
+--Output from list with criteria[11]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.test_embedded_number=?
+
+--Output from find all by date created[0]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.test_embedded_date_created=?
+
+--Output from find all by date created[1]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.test_embedded_date_created=?
+
+--Output from find all by number[0]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.test_embedded_number=?
+
+--Output from find all by number[1]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.test_embedded_number=?
+
+--Output from find all by title[0]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.title=?
+
+--Output from find all by title[1]--
+Hibernate: 
+    insert 
+    into
+        test
+        (id, version, date_created, number, test_embedded_date_created, test_embedded_number, test_embedded_title, title) 
+    values
+        (null, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: 
+    call identity()
+Hibernate: 
+    select
+        this_.id as id1_0_,
+        this_.version as version1_0_,
+        this_.date_created as date3_1_0_,
+        this_.number as number1_0_,
+        this_.test_embedded_date_created as test5_1_0_,
+        this_.test_embedded_number as test6_1_0_,
+        this_.test_embedded_title as test7_1_0_,
+        this_.title as title1_0_ 
+    from
+        test this_ 
+    where
+        this_.title=?
+
+]]></system-out>
+
+      <system-err><![CDATA[--Output from list with criteria[0]--
+--Output from list with criteria[1]--
+--Output from list with criteria[2]--
+--Output from list with criteria[3]--
+--Output from list with criteria[4]--
+--Output from list with criteria[5]--
+--Output from list with criteria[6]--
+--Output from list with criteria[7]--
+--Output from list with criteria[8]--
+--Output from list with criteria[9]--
+--Output from list with criteria[10]--
+--Output from list with criteria[11]--
+--Output from find all by date created[0]--
+--Output from find all by date created[1]--
+--Output from find all by number[0]--
+--Output from find all by number[1]--
+--Output from find all by title[0]--
+--Output from find all by title[1]--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

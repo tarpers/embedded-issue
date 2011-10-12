@@ -1,0 +1,2032 @@
+2011-10-12 09:22:25,925 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:20)
+2011-10-12 09:22:25,936 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:20)
+2011-10-12 09:22:25,948 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 3]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:20)
+2011-10-12 09:22:25,948 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 3]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:20)
+2011-10-12 09:23:13,286 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:22)
+2011-10-12 09:23:13,291 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:22)
+2011-10-12 09:23:13,304 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 3]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:22)
+2011-10-12 09:23:13,305 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 3]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:22)
+2011-10-12 09:33:07,510 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:24)
+2011-10-12 09:33:07,515 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:24)
+2011-10-12 09:33:07,528 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 3]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:24)
+2011-10-12 09:33:07,528 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 3]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:24)
+2011-10-12 09:33:07,550 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:24)
+2011-10-12 09:33:07,550 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:24)
+2011-10-12 09:34:06,992 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:24)
+2011-10-12 09:34:06,997 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:24)
+2011-10-12 09:34:07,011 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 3]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:24)
+2011-10-12 09:34:07,011 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 3]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:24)
+2011-10-12 09:34:07,035 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:24)
+2011-10-12 09:34:07,035 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:24)
+2011-10-12 09:34:07,049 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 6]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:24)
+2011-10-12 09:34:07,049 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 6]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:24)
+2011-10-12 09:36:09,086 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:24)
+2011-10-12 09:36:09,091 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:24)
+2011-10-12 09:36:09,109 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 3]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:24)
+2011-10-12 09:36:09,109 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 3]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:24)
+2011-10-12 09:36:09,137 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:24)
+2011-10-12 09:36:09,138 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:24)
+2011-10-12 09:36:09,155 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 6]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:24)
+2011-10-12 09:36:09,156 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 6]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:24)
+2011-10-12 09:49:44,692 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:49:44,697 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:49:44,712 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 3]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:49:44,712 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 3]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:49:44,736 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:49:44,736 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:49:44,750 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 6]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:49:44,750 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 6]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:49:44,787 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:49:44,787 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:49:44,799 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 10]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:49:44,800 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 10]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:49:44,813 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:49:44,813 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:49:44,826 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 12]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:49:44,826 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 12]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:59:12,276 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:59:12,281 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:59:12,295 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 3]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:59:12,296 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 3]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:59:12,320 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:59:12,320 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:59:12,334 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 6]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:59:12,334 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 6]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:59:12,372 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:59:12,372 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:59:12,385 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 10]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:59:12,385 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 10]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:59:12,404 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:59:12,404 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:59:12,417 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 12]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:59:12,417 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 12]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 09:59:12,469 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:55)
+2011-10-12 09:59:12,469 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:55)
+2011-10-12 09:59:12,484 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 14]
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:55)
+2011-10-12 09:59:12,484 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[embedded.issue.Test : 14]
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:55)
+2011-10-12 10:01:14,641 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:01:14,646 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:01:14,679 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@19f70605 dateCreated=Wed Oct 12 10:01:14 BST 2011 title=parent number=-1 testEmbedded=embedded.issue.TestEmbedded : null id=3 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:01:14,679 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@19f70605 dateCreated=Wed Oct 12 10:01:14 BST 2011 title=parent number=-1 testEmbedded=embedded.issue.TestEmbedded : null id=3 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:01:14,704 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:01:14,705 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:01:14,720 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@38beb946 dateCreated=Wed Oct 12 10:01:14 BST 2011 title=parent number=-1 testEmbedded=embedded.issue.TestEmbedded : null id=6 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:01:14,720 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@38beb946 dateCreated=Wed Oct 12 10:01:14 BST 2011 title=parent number=-1 testEmbedded=embedded.issue.TestEmbedded : null id=6 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:01:14,758 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:01:14,758 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:01:14,771 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@60e5d9d2 dateCreated=Wed Oct 12 10:01:14 BST 2011 title=parent number=-1 testEmbedded=embedded.issue.TestEmbedded : null id=10 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:01:14,771 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@60e5d9d2 dateCreated=Wed Oct 12 10:01:14 BST 2011 title=parent number=-1 testEmbedded=embedded.issue.TestEmbedded : null id=10 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:01:14,784 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:01:14,785 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:01:14,797 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@3f7e6f05 dateCreated=Wed Oct 12 10:01:14 BST 2011 title=parent number=-1 testEmbedded=embedded.issue.TestEmbedded : null id=12 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:01:14,798 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@3f7e6f05 dateCreated=Wed Oct 12 10:01:14 BST 2011 title=parent number=-1 testEmbedded=embedded.issue.TestEmbedded : null id=12 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:01:14,833 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:55)
+2011-10-12 10:01:14,834 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:55)
+2011-10-12 10:01:14,848 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@5ebd327b dateCreated=Wed Oct 12 10:01:14 BST 2011 title=parent number=-1 testEmbedded=embedded.issue.TestEmbedded : null id=14 version=0>]
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:55)
+2011-10-12 10:01:14,848 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@5ebd327b dateCreated=Wed Oct 12 10:01:14 BST 2011 title=parent number=-1 testEmbedded=embedded.issue.TestEmbedded : null id=14 version=0>]
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:55)
+2011-10-12 10:02:11,059 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:02:11,064 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:02:11,079 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@45fe425 dateCreated=Wed Oct 12 10:02:11 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@6e4ccfdc dateCreated=Fri Oct 14 10:02:11 BST 2011 title=embedded number=1 id=null version=null> id=3 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:02:11,079 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@45fe425 dateCreated=Wed Oct 12 10:02:11 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@6e4ccfdc dateCreated=Fri Oct 14 10:02:11 BST 2011 title=embedded number=1 id=null version=null> id=3 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:02:11,105 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:02:11,106 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:02:11,120 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@636b1b61 dateCreated=Wed Oct 12 10:02:11 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@726b4082 dateCreated=Fri Oct 14 10:02:11 BST 2011 title=embedded number=1 id=null version=null> id=6 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:02:11,120 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@636b1b61 dateCreated=Wed Oct 12 10:02:11 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@726b4082 dateCreated=Fri Oct 14 10:02:11 BST 2011 title=embedded number=1 id=null version=null> id=6 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:02:11,157 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:02:11,158 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:02:11,170 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@4e4e745 dateCreated=Wed Oct 12 10:02:11 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@60d60cd6 dateCreated=Fri Oct 14 10:02:11 BST 2011 title=embedded number=1 id=null version=null> id=10 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:02:11,170 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@4e4e745 dateCreated=Wed Oct 12 10:02:11 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@60d60cd6 dateCreated=Fri Oct 14 10:02:11 BST 2011 title=embedded number=1 id=null version=null> id=10 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:02:11,183 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:02:11,183 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:02:11,196 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@19e185b9 dateCreated=Wed Oct 12 10:02:11 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@6ae006d8 dateCreated=Fri Oct 14 10:02:11 BST 2011 title=embedded number=1 id=null version=null> id=12 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:02:11,196 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@19e185b9 dateCreated=Wed Oct 12 10:02:11 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@6ae006d8 dateCreated=Fri Oct 14 10:02:11 BST 2011 title=embedded number=1 id=null version=null> id=12 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:02:11,230 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:55)
+2011-10-12 10:02:11,230 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:55)
+2011-10-12 10:02:11,244 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@635194a1 dateCreated=Wed Oct 12 10:02:11 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@1e3ec646 dateCreated=Fri Oct 14 10:02:11 BST 2011 title=embedded number=1 id=null version=null> id=14 version=0>]
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:55)
+2011-10-12 10:02:11,245 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@635194a1 dateCreated=Wed Oct 12 10:02:11 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@1e3ec646 dateCreated=Fri Oct 14 10:02:11 BST 2011 title=embedded number=1 id=null version=null> id=14 version=0>]
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:55)
+2011-10-12 10:04:22,590 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:04:22,595 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:04:22,611 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@6faa7dbc dateCreated=Wed Oct 12 10:04:22 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@599a4de1 dateCreated=Fri Oct 14 10:04:22 BST 2011 title=embedded number=1 id=null version=null> id=3 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:04:22,611 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@6faa7dbc dateCreated=Wed Oct 12 10:04:22 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@599a4de1 dateCreated=Fri Oct 14 10:04:22 BST 2011 title=embedded number=1 id=null version=null> id=3 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:04:22,636 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:04:22,636 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:04:22,650 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@541767f1 dateCreated=Wed Oct 12 10:04:22 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@595ee3d dateCreated=Fri Oct 14 10:04:22 BST 2011 title=embedded number=1 id=null version=null> id=6 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:04:22,651 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@541767f1 dateCreated=Wed Oct 12 10:04:22 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@595ee3d dateCreated=Fri Oct 14 10:04:22 BST 2011 title=embedded number=1 id=null version=null> id=6 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:04:22,688 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:04:22,689 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:04:22,702 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@7ab32609 dateCreated=Wed Oct 12 10:04:22 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@56dfbc0d dateCreated=Fri Oct 14 10:04:22 BST 2011 title=embedded number=1 id=null version=null> id=10 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:04:22,702 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@7ab32609 dateCreated=Wed Oct 12 10:04:22 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@56dfbc0d dateCreated=Fri Oct 14 10:04:22 BST 2011 title=embedded number=1 id=null version=null> id=10 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:04:22,715 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:04:22,716 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:04:22,736 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@9317bfb dateCreated=Wed Oct 12 10:04:22 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@65a45a7f dateCreated=Fri Oct 14 10:04:22 BST 2011 title=embedded number=1 id=null version=null> id=12 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:04:22,737 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@9317bfb dateCreated=Wed Oct 12 10:04:22 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@65a45a7f dateCreated=Fri Oct 14 10:04:22 BST 2011 title=embedded number=1 id=null version=null> id=12 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:27)
+2011-10-12 10:04:22,771 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:56)
+2011-10-12 10:04:22,771 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:56)
+2011-10-12 10:04:22,785 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@3ffa330d dateCreated=Wed Oct 12 10:04:22 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@7f24bed4 dateCreated=Fri Oct 14 10:04:22 BST 2011 title=embedded number=1 id=null version=null> id=14 version=0>]
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:56)
+2011-10-12 10:04:22,786 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@3ffa330d dateCreated=Wed Oct 12 10:04:22 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@7f24bed4 dateCreated=Fri Oct 14 10:04:22 BST 2011 title=embedded number=1 id=null version=null> id=14 version=0>]
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:56)
+2011-10-12 10:06:29,563 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:06:29,568 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:06:29,583 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@6d78e506 dateCreated=Wed Oct 12 10:06:29 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@24c31811 dateCreated=Fri Oct 14 10:06:29 BST 2011 title=embedded number=1 id=null version=null> id=3 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:06:29,584 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@6d78e506 dateCreated=Wed Oct 12 10:06:29 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@24c31811 dateCreated=Fri Oct 14 10:06:29 BST 2011 title=embedded number=1 id=null version=null> id=3 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:06:29,609 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:06:29,609 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:06:29,623 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@476e0993 dateCreated=Wed Oct 12 10:06:29 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@7b8269b6 dateCreated=Fri Oct 14 10:06:29 BST 2011 title=embedded number=1 id=null version=null> id=6 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:06:29,624 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@476e0993 dateCreated=Wed Oct 12 10:06:29 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@7b8269b6 dateCreated=Fri Oct 14 10:06:29 BST 2011 title=embedded number=1 id=null version=null> id=6 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:06:29,662 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:06:29,662 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:06:29,674 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@740355a4 dateCreated=Wed Oct 12 10:06:29 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@5c1b0d41 dateCreated=Fri Oct 14 10:06:29 BST 2011 title=embedded number=1 id=null version=null> id=10 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:06:29,674 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@740355a4 dateCreated=Wed Oct 12 10:06:29 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@5c1b0d41 dateCreated=Fri Oct 14 10:06:29 BST 2011 title=embedded number=1 id=null version=null> id=10 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:06:29,687 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:06:29,687 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:06:29,707 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@44865ee dateCreated=Wed Oct 12 10:06:29 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@8dae665 dateCreated=Fri Oct 14 10:06:29 BST 2011 title=embedded number=1 id=null version=null> id=12 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:06:29,708 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@44865ee dateCreated=Wed Oct 12 10:06:29 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@8dae665 dateCreated=Fri Oct 14 10:06:29 BST 2011 title=embedded number=1 id=null version=null> id=12 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:06:29,749 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:56)
+2011-10-12 10:06:29,749 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:56)
+2011-10-12 10:06:29,770 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@29fb6448 dateCreated=Wed Oct 12 10:06:29 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@595ee3d dateCreated=Fri Oct 14 10:06:29 BST 2011 title=embedded number=1 id=null version=null> id=14 version=0>]
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:56)
+2011-10-12 10:06:29,770 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@29fb6448 dateCreated=Wed Oct 12 10:06:29 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@595ee3d dateCreated=Fri Oct 14 10:06:29 BST 2011 title=embedded number=1 id=null version=null> id=14 version=0>]
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:56)
+2011-10-12 10:07:45,766 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:07:45,771 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:07:45,786 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@1574409e dateCreated=Wed Oct 12 10:07:45 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@695b2fd8 dateCreated=Fri Oct 14 10:07:45 BST 2011 title=embedded number=1 id=null version=null> id=3 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:07:45,786 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@1574409e dateCreated=Wed Oct 12 10:07:45 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@695b2fd8 dateCreated=Fri Oct 14 10:07:45 BST 2011 title=embedded number=1 id=null version=null> id=3 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:07:45,811 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:07:45,812 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:07:45,826 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@6caf446 dateCreated=Wed Oct 12 10:07:45 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@499aed36 dateCreated=Fri Oct 14 10:07:45 BST 2011 title=embedded number=1 id=null version=null> id=6 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:07:45,826 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@6caf446 dateCreated=Wed Oct 12 10:07:45 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@499aed36 dateCreated=Fri Oct 14 10:07:45 BST 2011 title=embedded number=1 id=null version=null> id=6 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:07:45,863 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:07:45,864 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:07:45,877 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@1d3cdb70 dateCreated=Wed Oct 12 10:07:45 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@380febb9 dateCreated=Fri Oct 14 10:07:45 BST 2011 title=embedded number=1 id=null version=null> id=10 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:07:45,877 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@1d3cdb70 dateCreated=Wed Oct 12 10:07:45 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@380febb9 dateCreated=Fri Oct 14 10:07:45 BST 2011 title=embedded number=1 id=null version=null> id=10 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:07:45,896 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:07:45,896 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:07:45,909 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@683a412e dateCreated=Wed Oct 12 10:07:45 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@403d0d64 dateCreated=Fri Oct 14 10:07:45 BST 2011 title=embedded number=1 id=null version=null> id=12 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:07:45,909 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@683a412e dateCreated=Wed Oct 12 10:07:45 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@403d0d64 dateCreated=Fri Oct 14 10:07:45 BST 2011 title=embedded number=1 id=null version=null> id=12 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:07:45,946 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:57)
+2011-10-12 10:07:45,946 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:57)
+2011-10-12 10:07:45,961 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@7662953a dateCreated=Wed Oct 12 10:07:45 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@75176704 dateCreated=Fri Oct 14 10:07:45 BST 2011 title=embedded number=1 id=null version=null> id=14 version=0>]
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:57)
+2011-10-12 10:07:45,961 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@7662953a dateCreated=Wed Oct 12 10:07:45 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@75176704 dateCreated=Fri Oct 14 10:07:45 BST 2011 title=embedded number=1 id=null version=null> id=14 version=0>]
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:57)
+2011-10-12 10:10:16,773 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:16,778 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:16,796 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@12e37fe5 dateCreated=Wed Oct 12 10:10:16 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@5b0a485c dateCreated=Fri Oct 14 10:10:16 BST 2011 title=embedded number=1 id=null version=null> id=3 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:16,796 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@12e37fe5 dateCreated=Wed Oct 12 10:10:16 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@5b0a485c dateCreated=Fri Oct 14 10:10:16 BST 2011 title=embedded number=1 id=null version=null> id=3 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:16,824 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:16,824 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:16,839 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@6a0c282b dateCreated=Wed Oct 12 10:10:16 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@51504155 dateCreated=Fri Oct 14 10:10:16 BST 2011 title=embedded number=1 id=null version=null> id=6 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:16,840 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@6a0c282b dateCreated=Wed Oct 12 10:10:16 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@51504155 dateCreated=Fri Oct 14 10:10:16 BST 2011 title=embedded number=1 id=null version=null> id=6 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:16,885 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:16,886 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:16,899 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@fd5a10c dateCreated=Wed Oct 12 10:10:16 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@5601cb79 dateCreated=Fri Oct 14 10:10:16 BST 2011 title=embedded number=1 id=null version=null> id=10 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:16,900 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@fd5a10c dateCreated=Wed Oct 12 10:10:16 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@5601cb79 dateCreated=Fri Oct 14 10:10:16 BST 2011 title=embedded number=1 id=null version=null> id=10 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:16,913 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:16,913 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:16,929 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@fca1ca dateCreated=Wed Oct 12 10:10:16 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@43050e86 dateCreated=Fri Oct 14 10:10:16 BST 2011 title=embedded number=1 id=null version=null> id=12 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:16,930 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@fca1ca dateCreated=Wed Oct 12 10:10:16 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@43050e86 dateCreated=Fri Oct 14 10:10:16 BST 2011 title=embedded number=1 id=null version=null> id=12 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:16,967 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:57)
+2011-10-12 10:10:16,967 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:57)
+2011-10-12 10:10:16,983 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@217c26cc dateCreated=Wed Oct 12 10:10:16 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@6be05ef2 dateCreated=Fri Oct 14 10:10:16 BST 2011 title=embedded number=1 id=null version=null> id=14 version=0>]
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:57)
+2011-10-12 10:10:16,983 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@217c26cc dateCreated=Wed Oct 12 10:10:16 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@6be05ef2 dateCreated=Fri Oct 14 10:10:16 BST 2011 title=embedded number=1 id=null version=null> id=14 version=0>]
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:57)
+2011-10-12 10:10:17,000 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.find all by number(TestSpec.groovy:76)
+2011-10-12 10:10:17,000 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.find all by number(TestSpec.groovy:76)
+2011-10-12 10:10:17,023 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@22ace5ba dateCreated=Wed Oct 12 10:10:17 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@31d93071 dateCreated=Fri Oct 14 10:10:17 BST 2011 title=embedded number=1 id=null version=null> id=16 version=0>]
+
+	at embedded.issue.TestSpec.find all by number(TestSpec.groovy:76)
+2011-10-12 10:10:17,023 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@22ace5ba dateCreated=Wed Oct 12 10:10:17 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@31d93071 dateCreated=Fri Oct 14 10:10:17 BST 2011 title=embedded number=1 id=null version=null> id=16 version=0>]
+
+	at embedded.issue.TestSpec.find all by number(TestSpec.groovy:76)
+2011-10-12 10:10:29,315 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:29,320 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:29,336 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@22241a0d dateCreated=Wed Oct 12 10:10:29 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@54031f94 dateCreated=Fri Oct 14 10:10:29 BST 2011 title=embedded number=1 id=null version=null> id=3 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:29,337 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@22241a0d dateCreated=Wed Oct 12 10:10:29 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@54031f94 dateCreated=Fri Oct 14 10:10:29 BST 2011 title=embedded number=1 id=null version=null> id=3 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:29,363 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:29,363 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:29,378 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@e8baeed dateCreated=Wed Oct 12 10:10:29 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@211120f9 dateCreated=Fri Oct 14 10:10:29 BST 2011 title=embedded number=1 id=null version=null> id=6 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:29,378 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@e8baeed dateCreated=Wed Oct 12 10:10:29 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@211120f9 dateCreated=Fri Oct 14 10:10:29 BST 2011 title=embedded number=1 id=null version=null> id=6 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:29,424 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:29,424 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:29,438 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@6f5fc793 dateCreated=Wed Oct 12 10:10:29 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@176150c dateCreated=Fri Oct 14 10:10:29 BST 2011 title=embedded number=1 id=null version=null> id=10 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:29,438 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@6f5fc793 dateCreated=Wed Oct 12 10:10:29 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@176150c dateCreated=Fri Oct 14 10:10:29 BST 2011 title=embedded number=1 id=null version=null> id=10 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:29,451 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:29,451 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:29,465 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@1641529e dateCreated=Wed Oct 12 10:10:29 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@2e5231c4 dateCreated=Fri Oct 14 10:10:29 BST 2011 title=embedded number=1 id=null version=null> id=12 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:29,465 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@1641529e dateCreated=Wed Oct 12 10:10:29 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@2e5231c4 dateCreated=Fri Oct 14 10:10:29 BST 2011 title=embedded number=1 id=null version=null> id=12 version=0>]
+
+	at embedded.issue.TestSpec.list with criteria(TestSpec.groovy:28)
+2011-10-12 10:10:29,500 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:57)
+2011-10-12 10:10:29,500 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:57)
+2011-10-12 10:10:29,517 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@1ba5cfae dateCreated=Wed Oct 12 10:10:29 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@56c747e8 dateCreated=Fri Oct 14 10:10:29 BST 2011 title=embedded number=1 id=null version=null> id=14 version=0>]
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:57)
+2011-10-12 10:10:29,518 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@1ba5cfae dateCreated=Wed Oct 12 10:10:29 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@56c747e8 dateCreated=Fri Oct 14 10:10:29 BST 2011 title=embedded number=1 id=null version=null> id=14 version=0>]
+
+	at embedded.issue.TestSpec.find all by date created(TestSpec.groovy:57)
+2011-10-12 10:10:29,534 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.find all by number(TestSpec.groovy:76)
+2011-10-12 10:10:29,535 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+[]   0      |  1
+            false
+
+	at embedded.issue.TestSpec.find all by number(TestSpec.groovy:76)
+2011-10-12 10:10:29,556 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@1d902242 dateCreated=Wed Oct 12 10:10:29 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@231aaee1 dateCreated=Fri Oct 14 10:10:29 BST 2011 title=embedded number=1 id=null version=null> id=16 version=0>]
+
+	at embedded.issue.TestSpec.find all by number(TestSpec.groovy:76)
+2011-10-12 10:10:29,557 [main] ERROR StackTrace  - Sanitizing stacktrace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+list.size() == expectedSize
+|    |      |  |
+|    1      |  0
+|           false
+[<embedded.issue.Test@1d902242 dateCreated=Wed Oct 12 10:10:29 BST 2011 title=parent number=-1 testEmbedded=<embedded.issue.TestEmbedded@231aaee1 dateCreated=Fri Oct 14 10:10:29 BST 2011 title=embedded number=1 id=null version=null> id=16 version=0>]
+
+	at embedded.issue.TestSpec.find all by number(TestSpec.groovy:76)
